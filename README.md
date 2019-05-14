@@ -1,4 +1,4 @@
-# Bio-WebApp
+# MEANauthAPI
 ![](https://img.shields.io/badge/node-^6.7.0-blue.svg) ![](https://img.shields.io/badge/express-^4.16.3-green.svg) ![](https://img.shields.io/badge/mongoose-^5.1.5-green.svg) <br>
 
 Here is a backend API of MEAN stack (MongoDB, Express, Angular, NodeJS) built by Express framework. This API contains the login/logout and register functionalities with JWT tokens in order to authenticate the user information.
